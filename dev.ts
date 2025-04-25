@@ -1,0 +1,1 @@
+import '@/ai/flows/generate-timetable.ts';
